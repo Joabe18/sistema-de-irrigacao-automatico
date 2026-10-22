@@ -9,9 +9,14 @@
 
 ## Power BI
 
+![pi_5_Dash_PowerBI](pi_5_Dash_PowerBI.jpeg)
+
 ## Metabase
+
+![pi_5_Dash_metabase](pi_5_Dash_metabase.jpeg)
 
 ---
 
-# Link vídeo projeto
+# Link do vídeo projeto:
 
+https://youtu.be/lm5FhrEkmkY
