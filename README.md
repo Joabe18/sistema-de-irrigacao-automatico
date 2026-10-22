@@ -17,6 +17,6 @@
 
 ---
 
-# Link do vídeo projeto:
+# Link do vídeo do projeto:
 
 https://youtu.be/lm5FhrEkmkY
